@@ -1,0 +1,8 @@
+﻿Setup log - 2026-10-29
+VS Code:
+1.144.0
+2c33b50b16c472efe58357d1d2a8a5414bc23fbf
+x64
+git version 2.56.0.windows.4
+Python 3.12.10
+Docker version 29.9.2, build a82e528
