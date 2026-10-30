@@ -1,6 +1,4 @@
 # de-journey
-My 12-week path from risk analytics to data engineering
-# de-journey
 
 Learning log for my transition from Senior Risk Data Analyst to Data Engineer.
 
